@@ -1,6 +1,6 @@
 # tasks
-A set of tasks have been assigned to me while I try to get a job in some company
+I was assigned a set of tasks while I was applying for jobs in various companies.
 
-No actual code on this repo it's only a route to Gitlab(which I personally prefer to use as a gallery for the tasks a lot of features are there like grouping projects so you can show jobs in a clear way for example tasks-2022/it-land/todo-app)
+I use Gitlab as a gallery for these tasks, taking advantage of its many features such as grouping projects. So, no code is included in this repository; instead, I use it as a route to Gitlab.
 
-Here is the main root: https://gitlab.com/users/mohammed.alyaseen/groups
+Here are the main tasks root on Gitlab: https://gitlab.com/users/mohammed.alyaseen/groups
