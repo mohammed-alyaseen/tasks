@@ -1,5 +1,0 @@
-code repo
-https://gitlab.com/tasks-2022/insightter/task
-
-hosting Link
-https://insightter.netlify.app/

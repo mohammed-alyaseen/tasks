@@ -1,5 +1,0 @@
-part 1
-https://gitlab.com/tasks-2022/bigdash/task-1
-
-part 2
-https://gitlab.com/tasks-2022/bigdash/task-2
